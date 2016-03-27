@@ -41,10 +41,10 @@ public class HotelModel {
 		new Hotel("Hotel Latin","Quartier latin","Paris",3),
 		new Hotel("Hotel Etoile","Place de l'Etoile","Paris",4),
 		new Hotel("Hotel Vendome","Place Vendome","Paris",5),
-		new Hotel("Hotel Leopolis","Armianska","Lviv",3),
+		new Hotel("Hotel Leopolis","Armianska","Lviv",1),
 		new Hotel("Hotel Hilton","Trafalgar Square","London",4),
 		new Hotel("Hotel Ibis","The City","London",3),
-		new Hotel("Hotel Sviatoslav","Vynnyky, Iv.Franka","Lviv",4),
+		new Hotel("Hotel Sviatoslav","Vynnyky, Iv.Franka","Lviv",1),
 	};
 	
 	/**
